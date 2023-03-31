@@ -1,0 +1,9 @@
+{
+	"allowed_extensions": [
+		"info@checkmyhttps.net"
+	],
+	"description": "CheckMyHTTPS",
+	"name": "checkmyhttps",
+	"path": "C:\\Users\\SkYliiS\\Desktop\\9raya\\pst\\release versions\\Chromium_13_03_2023\\native-app\\checkmyhttps_win.bat",
+	"type": "stdio"
+}
